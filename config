@@ -1,0 +1,11 @@
+#luc-git-projects account
+Host github.com-luc-projects
+     HostName github.com
+     User git
+     IdentityFile ~/.ssh/luc-projects
+
+#lucgithub343 account
+Host github.com-luc-programs
+     HostName github.com
+     User git
+     IdentityFile ~/.ssh/luc-programs
